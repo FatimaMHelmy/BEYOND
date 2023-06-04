@@ -61,14 +61,14 @@ OpenCV: Ensure that you have OpenCV installed on your system and properly config
 
 ### *RESULTS*
 
-#### the result after applying bluring it is not suitable for all images 
+#### ******the result after applying bluring it is not suitable for all images*****
 
 
 ![image](https://github.com/FatimaMHelmy/BEYOND/blob/master/images/with_bluring.png)
 
 
 
-#### the result without any smoothing 
+#### ******the result without any smoothing*********
 
 
 ![image](https://github.com/FatimaMHelmy/BEYOND/blob/master/images/with_out_bluring.png)
