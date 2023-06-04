@@ -1,5 +1,33 @@
 # BEYOND_TASKS
+## TASK_2 || Linked list 
 
+This is a C++ implementation of a doubly linked list. It provides various operations such as adding elements, searching for an element, removing an element, clearing the list, and sorting the list using merge sort algorithm.
+
+### **Node Class**
+The Node class represents a node in the doubly linked list. Each node contains an integer value, a pointer to the previous node (prev), and a pointer to the next node (next).
+
+### **DoublyLinkedList Class**
+The DoublyLinkedList class represents the doubly linked list. It has private member variables head and tail which point to the first and last nodes of the list, respectively.
+
+### Constructor
+
+DoublyLinkedList(): Initializes an empty doubly linked list.
+
+### Methods
+
+- void Add(int element): Adds an element to the end of the list.
+
+- void Add(int element, int position): Adds an element at the specified position in the list.
+- bool Search(int element): Searches for the specified element in the list and returns true if found, false otherwise.
+- void Remove(int element): Removes the specified element from the list if it exists.
+- void Clear(): Clears the entire list.
+- void PrintList(): Prints the elements of the list.
+- Node* Merge_Lists(Node* first_lst, Node* second_lst): Merges two sorted lists into a single sorted list.
+- void Merge_Sort(): Sorts the list using merge sort algorithm.
+### **USAGE**
+It inckudes the test cases just run it.
+
+The main function demonstrates the usage of the doubly linked list. It creates an instance of DoublyLinkedList, adds elements to the list, performs operations like searching and removing elements, adds elements at specific positions, sorts the list, and clears the list.
 
 ## TASK_3 ||Home Made Sobel 
 ### **steps**
