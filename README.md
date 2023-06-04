@@ -1,6 +1,8 @@
 # BEYOND_TASKS
 ## TASK_2 || Linked list 
 
+# !! ** you will find the whole project in projects folder and cpp file in files folder**
+
 This is a C++ implementation of a doubly linked list. It provides various operations such as adding elements, searching for an element, removing an element, clearing the list, and sorting the list using merge sort algorithm.
 
 ### **Node Class**
@@ -32,6 +34,9 @@ The main function demonstrates the usage of the doubly linked list. It creates a
 ![image](https://github.com/FatimaMHelmy/BEYOND/blob/master/images/test_case_TASK2.png)
 
 ## TASK_3 ||Home Made Sobel 
+
+# !! ** you will find the whole project in projects folder and cpp file in files folder**
+
 ### **steps**
 
 Just enter the image path if you don't have one it's handeled in the code to use a test case image just run the code
