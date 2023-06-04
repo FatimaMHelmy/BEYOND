@@ -13,7 +13,7 @@ Just insert the image path if you don't have one it's handeled in the code to us
 - The constructor takes the path to the input image and loads it using the OpenCV imread function.
 
 - The vertical and horizontal Sobel filter matrices are manually defined.
-- 
+
 - The detectEdges method performs the edge detection process. It applies image smoothing using Gaussian blur, calculates the gradients using the Sobel filters, and computes the edge magnitude.
 
 - The applyGaussianBlur method applies Gaussian blur to the input image using the OpenCV GaussianBlur function and Sharpening. || it's optional for high performance 
