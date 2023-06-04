@@ -28,6 +28,8 @@ DoublyLinkedList(): Initializes an empty doubly linked list.
 It inckudes the test cases just run it.
 
 The main function demonstrates the usage of the doubly linked list. It creates an instance of DoublyLinkedList, adds elements to the list, performs operations like searching and removing elements, adds elements at specific positions, sorts the list, and clears the list.
+### **Result**
+![image](https://github.com/FatimaMHelmy/BEYOND/blob/master/images/test_case_TASK2.png)
 
 ## TASK_3 ||Home Made Sobel 
 ### **steps**
