@@ -2,8 +2,11 @@
 
 
 ## TASK_3 ||Home Made Sobel 
+### **steps**
 
-#**Code Explanation**
+Just insert the image path if you don't have one it's handeled in the code to use a test case image 
+
+### **Code Explanation**
 
 - The SobelEdgeDetector class represents the edge detection algorithm.
 
@@ -18,8 +21,6 @@
 - The showEdgeImage method displays the original image and the filtered images side by side using OpenCV's imshow function.
 
 ## the result after applying bluring it is not suitable for all images 
-
-![image](https://github.com/FatimaMHelmy/BEYOND/assets/84232181/58dbe414-2e8c-438a-bac4-d7fe3dc8645d)
 
 ![image](https://github.com/FatimaMHelmy/BEYOND/assets/84232181/1b673bb3-ee86-481e-96b2-fc4f0d710f48)
 
