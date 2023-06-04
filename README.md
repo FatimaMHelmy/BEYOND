@@ -63,11 +63,11 @@ OpenCV: Ensure that you have OpenCV installed on your system and properly config
 
 #### the result after applying bluring it is not suitable for all images 
 
-![image](https://github.com/FatimaMHelmy/BEYOND/assets/84232181/1b673bb3-ee86-481e-96b2-fc4f0d710f48)
+![image]([https://github.com/FatimaMHelmy/BEYOND/assets/84232181/1b673bb3-ee86-481e-96b2-fc4f0d710f48](https://github.com/FatimaMHelmy/BEYOND/blob/master/images/with_bluring.png))
 
 #### the result without any smoothing 
 
-![image](https://github.com/FatimaMHelmy/BEYOND/assets/84232181/10793730-1732-4a35-8b6c-080bc2e08300)
+![image]([https://github.com/FatimaMHelmy/BEYOND/assets/84232181/10793730-1732-4a35-8b6c-080bc2e08300](https://github.com/FatimaMHelmy/BEYOND/blob/master/images/with_out_bluring.png))
 
 ## TASK1|| Face detection
 
