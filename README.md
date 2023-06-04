@@ -4,7 +4,7 @@
 ## TASK_3 ||Home Made Sobel 
 ### **steps**
 
-Just insert the image path if you don't have one it's handeled in the code to use a test case image 
+Just enter the image path if you don't have one it's handeled in the code to use a test case image just run the code
 
 ### **Code Explanation**
 
