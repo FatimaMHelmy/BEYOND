@@ -69,4 +69,10 @@ OpenCV: Ensure that you have OpenCV installed on your system and properly config
 
 ![image](https://github.com/FatimaMHelmy/BEYOND/assets/84232181/10793730-1732-4a35-8b6c-080bc2e08300)
 
+## TASK1|| Face detection
+
+Face Detection and Swaping:
+
+Regarding the face detection and swaping task, I have made progress in extracting faces from images. I have experimented with different techniques and have successfully extracted faces. However, I am currently facing challenges with aligning the detected faces during the swaping process. Despite trying various approaches, the alignment is not optimal. I am still actively working on this issue and exploring different methods to improve the alignment.
+
 
